@@ -1,0 +1,7 @@
+{
+  "itemGroup.blockmod": "Tardis Blocks Mod Items",
+  "block.blockmod.smileblock": "Smiley Block",
+  "block.blockmod.sad_block": "Sad Block",
+  "block.blockmod.mob_slayer": "Mob Slayer Block",
+  "__comment__": "lang json loads important names"
+}
